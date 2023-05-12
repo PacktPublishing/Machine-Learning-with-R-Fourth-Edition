@@ -17,7 +17,7 @@ With the expert help of Brett Lantz, you’ll learn how to uncover key insights 
 - Connect R to SQL databases and emerging big data technologies such as Spark, Hadoop, H2O, and TensorFlow
 
 
-## Table of Contents
+## Table of contents
 ### Chapters
 1. Introducing Machine Learning
 2. Managing and Understanding Data
@@ -42,7 +42,7 @@ With the expert help of Brett Lantz, you’ll learn how to uncover key insights 
 
 With the following software and hardware list you can run all code files present in the book (Chapter number mention here).
 
-## Software and Hardware List
+## Software and hardware list
 
 | Chapter | Software required    | Link to the software    | Hardware specifications    | OS required    |
 |:---:  |:---:  |:---:  |:---:  |:---:  |
@@ -62,5 +62,5 @@ _If you have already purchased a print or Kindle version of this book, you can g
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [GraphicBundle]() <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
-## Get to Know the Author
+## Get to know the Author
 _Brett Lantz_ (DataSpelunking) has spent more than 10 years using innovative data methods to understand human behavior. A sociologist by training, Brett was first captivated by machine learning during research on a large database of teenagers' social network profiles. Brett is a DataCamp instructor and a frequent speaker at machine learning conferences and workshops around the world. He is known to geek out about data science applications for sports, autonomous vehicles, foreign language learning, and fashion, among many other subjects, and hopes to one day blog about these subjects at Data Spelunking, a website dedicated to sharing knowledge about the search for insight in data.
