@@ -175,6 +175,14 @@ ls()
 
 rm(list=ls())
 
+##### Importing and saving datasets from CSV files ------------
+
+# reading a CSV file
+pt_data <- read.csv("pt_data.csv")
+
+# reading a CSV file and converting all character columns to factors
+pt_data <- read.csv("pt_data.csv", stringsAsFactors = TRUE)
+
 ##### Exploring and understanding data --------------------
 
 ## data exploration example using used car data
