@@ -1,5 +1,5 @@
 # Machine-Learning-with-R-Fourth-Edition
-This is the code repository for [Machine Learning with R, Fourth Edition](https://www.amazon.com/Machine-Learning-cleansing-modeling-tidyverse/dp/1801071322/), published by Packt.
+This is the code repository for [Machine Learning with R, Fourth Edition](https://www.packtpub.com/product/machine-learning-with-r-fourth-edition/9781801071321), published by Packt.
 **Learn techniques for building and improving machine learning models, from data preparation to model tuning, evaluation, and working with big data**
 
 ## About the book
