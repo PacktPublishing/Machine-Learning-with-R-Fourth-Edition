@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Machine-Learning-with-R-Fourth-Edition
 This is the code repository for [Machine Learning with R, Fourth Edition](https://www.packtpub.com/product/machine-learning-with-r-fourth-edition/9781801071321), published by Packt.
 **Learn techniques for building and improving machine learning models, from data preparation to model tuning, evaluation, and working with big data**
