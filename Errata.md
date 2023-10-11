@@ -23,3 +23,8 @@ Also on page 241, in the logistic regression syntax box *making predictions* sec
 `churn_model <- glm(churn ~ ., data = churn_data, family = binomial(link = "logit")`
 should be written as:
 `churn_model <- glm(churn ~ ., data = churn_data, family = binomial(link = "logit"))`
+
+## Chapter 14, Correcting typos in `caret` output explanations
+On page 603, the accuracy estimate of 72.996 percent should be changed to 72.705 perecent to align with the optimal model that had `trials = 20`, `model = tree` and `winnow = FALSE`. Consequently, the text "which can be found in the last row of section three" should be changed to "which can be found in the third row of section three."
+
+Similarly, on page 608, the best model according to the output used `trials = 5` and NOT `trials = 1` as suggested by the text. Therefore, the text "whereas here, it used `trials = 1`" should be changed to "whereas here, it used `trials = 5`" and the line "the single-trial model offers reasonably close performance" should be changed to "the five-trial model offers reasonably close performance."
