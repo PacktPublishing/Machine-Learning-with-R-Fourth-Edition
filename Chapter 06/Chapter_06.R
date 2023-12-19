@@ -40,7 +40,10 @@ reg(y = launch$distress_ct, x = launch[2:4])
 
 # if desired, you can confirming the custom multiple regression function works
 # correctly by comparing to the result using R's built-in lm function (not in text)
-model <- lm(distress_ct ~ temperature + field_check_pressure + flight_num, data = launch)
+# model <- lm(distress_ct ~ temperature + field_check_pressure + flight_num, data = launch) ## commented out.
+
+model <- lm(distress_ct ~ ., data = launch) # edited to reflect similar teaching of using "." to mean "everything else" shown in a previous chapter. 
+
 model
 
 ## Example: Predicting Medical Expenses ----
