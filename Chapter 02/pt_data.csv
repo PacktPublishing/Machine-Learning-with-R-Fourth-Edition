@@ -2,3 +2,6 @@ subject_name,temperature,flu_status,gender,blood_type
 John Doe,98.1,FALSE,MALE,O
 Jane Doe,98.6,FALSE,FEMALE,AB
 Steve Graves,101.4,TRUE,MALE,A
+Putra Jaya, 99.8, TRUE, MALE, B
+Mekar Sari, 98.2, FALSE, FEMALE, AB
+Putri Rahayu, 100.5, TRUE, FEMALE, O
