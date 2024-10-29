@@ -2,3 +2,6 @@ subject_name,temperature,flu_status,gender,blood_type
 John Doe,98.1,FALSE,MALE,O
 Jane Doe,98.6,FALSE,FEMALE,AB
 Steve Graves,101.4,TRUE,MALE,A
+Mute,450,TRUE,FEMALE,AB
+Salsa,35,FALSE,FEMALE,O
+Mute,32,FALSE,FEMALE,A
